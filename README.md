@@ -254,7 +254,7 @@ transitions such as in:
 
 Ahmed S. Abouhashem, et al. (2025). Identification of Skin Multicellular
 Reprogramming Factors as Potential Treatment for Non-Healing Diabetic
-Foot Ulcers. \[2025\] RTFactivity GitHub:
+Foot Ulcers. RTFactivity GitHub:
 <https://github.com/safwat190/RTFactivity>
 
 **If you use scoring function “calculate\_relative\_score” which is the
