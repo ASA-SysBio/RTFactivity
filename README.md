@@ -10,7 +10,7 @@ cell reprogramming, or regeneration.
 
 ------------------------------------------------------------------------
 
-## ✨ Key Features
+## Key Features
 
 -   Calculates **direct TF scores** based on immediate targets  
 -   Calculates **cascade TF scores** through second-order targets
@@ -23,12 +23,12 @@ cell reprogramming, or regeneration.
 
 ------------------------------------------------------------------------
 
-## 📦 Installation
+## Installation
 
     install.packages("devtools")
     devtools::install_github("safwat190/RTFactivity")
 
-## 🚀 Quick Start
+## Quick Start
 
     library(RTFactivity)
     library(dplyr)
@@ -244,11 +244,11 @@ Your input should include:
 RTFactivity was developed to identify TFs driving beneficial cell state
 transitions such as in:
 
-    ✅ Wound healing (e.g., reprogramming fibroblasts to promote angiogenesis)
+     Wound healing (e.g., reprogramming fibroblasts to promote angiogenesis)
 
-    ✅ Beta cell differentiation
+     Beta cell differentiation
 
-    ✅ Spinal cord regeneration
+     Spinal cord regeneration
 
 ## Citation
 
@@ -282,4 +282,4 @@ changes via PR.
 Dr. Ahmed S. Abouhashem  
 Research Assistant Professor  
 University of Pittsburgh  
-📧 <A.S.A@pitt.edu>
+ <A.S.A@pitt.edu>
